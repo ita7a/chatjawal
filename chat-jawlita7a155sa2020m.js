@@ -42,5 +42,5 @@ clearInterval(myVar);
 
 $(`<center><div><div width="99.5%" style="background-image:url(/sico/z1dm3io75710.jpg);color: #000000;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ABABAB;border-top: 2px solid #ABABAB;padding-bottom: 2px!important;" ><font style="background-color: #BCC6CF;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" >مرحبآ بكم في شات التحليه </font></div></div><center>`).insertBefore('#d2');$('.nav-tabs').addClass('fl').css('width','100%');$
 ('a[href="/sico/1572095805304.jpg"]').removeAttr('href');
-$(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"><link rel="stylesheet" href="assl.css">
+$(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"><link rel="stylesheet" href="">
 </style>`).insertBefore('span.fl.fa.fa-send');
